@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1gU5GzuEwe/](https://www.bilibili.com/video/BV1gU5GzuEwe/)**
 
 **毕业设计所有选题地址：
-[https://github.com/giteecode/allProject](https://github.com/giteecode/allProject)**
+[https://github.com/codegitpro/allProject](https://github.com/codegitpro/allProject)**
 
 ## 基于python+Django+vue的房屋租赁系统(源代码+数据库+万字论文)219
 ## 一、系统介绍
